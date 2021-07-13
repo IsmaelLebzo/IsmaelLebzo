@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmaelLebzo
 - 👀 I’m interested in Games, PC, Cars, Football
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me : on Discord CHALA#2556
 
 <!---
